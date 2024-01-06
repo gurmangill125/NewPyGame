@@ -16,6 +16,7 @@ game_over = False
 restart_clicked = False
 score = 0
 
+
 # Initialize pygame
 pygame.init()
 pygame.mixer.init()
