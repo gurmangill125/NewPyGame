@@ -76,7 +76,7 @@ food_spawn = True
 
 # Font settings
 font_path = "assets/font.ttf"
-font_size = 28
+font_size = 27
 font_color = (255, 255, 255)  # White color
 
 
